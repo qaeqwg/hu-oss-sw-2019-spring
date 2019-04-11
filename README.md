@@ -7,4 +7,14 @@ i want to sleep
 | Name | Role |
 |------|------|
 |Jeongkyu Shin | Teach | 
-|TaeHyeong Kwon      | Student |
+|Sejin Eom| Student | 
+|Kyungjin You  | Student |
+|SeungHyun Cho | Student |
+|DongYeon Han  | Student |
+|Jiseon Lee    | Student|
+|Yo Han An     | Student |
+|Eunsoo Sa | Student |
+|Junsun Park | Student |
+|Sangwon Park | Student | 
+|Jae Hyeon Park| Student |
+|Yerim Seok    | Student |
